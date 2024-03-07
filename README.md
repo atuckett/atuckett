@@ -7,20 +7,14 @@
       repeatCount="indefinite" />
   </rect>
 </svg>
-<svg
-  width="120"
-  height="120"
-  viewBox="0 0 120 120"
-  xmlns="http://www.w3.org/2000/svg">
-  <polygon points="60,30 90,90 30,90">
-    <animateTransform
-      attributeName="transform"
-      attributeType="XML"
-      type="rotate"
-      from="0 60 70"
-      to="360 60 70"
-      dur="10s"
-      repeatCount="indefinite" />
-  </polygon>
-</svg>
+<svg version="1.1"
+     width="300" height="200"
+     xmlns="http://www.w3.org/2000/svg">
 
+  <rect width="100%" height="100%" fill="red" />
+
+  <circle cx="150" cy="100" r="80" fill="green" />
+
+  <text x="150" y="125" font-size="60" text-anchor="middle" fill="white">SVG</text>
+
+</svg>
