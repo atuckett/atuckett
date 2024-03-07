@@ -7,11 +7,14 @@
       repeatCount="indefinite" />
   </rect>
 </svg>
-  <div class="rating">
-    <span id="red"></span>
-    <span id="blue"></span>
-    <span id="green"></span>
-    <span id="yellow"></span>
-  </div>
-
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <div style="width: 250px; background-color: Red;">
+    </div>
+    
+  </body>
+</html>
 
