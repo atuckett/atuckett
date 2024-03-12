@@ -34,6 +34,7 @@ body {
   /* min-width: 100px; */
   height: 20px;
   width: 70px;
+  opacity:100%;
   background-color: rgb(157, 79, 46);
   border:5px solid #455A45;
 
@@ -45,7 +46,10 @@ body {
   /*flex: 1 1 150px;*/
 }
 .box:hover {
-  background-color: blueviolet;
+  background-color: #567862;
+}
+@media screen and (min-width: 1000px) {
+  .box{border: 0.5px solid #455A45;}
 }
 
 .box1 {
