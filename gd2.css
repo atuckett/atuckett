@@ -1,5 +1,5 @@
 /* Container holding the image and the text */
-.container {
+/*.container {
   position: relative;
 }
 
@@ -57,4 +57,4 @@ body {
 .box:nth-child(2) {
   flex: 2 2 150px;
   order: 1;
-}
+} */
